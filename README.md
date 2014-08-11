@@ -7,3 +7,5 @@ jhdatascience
 My List:
 * foo
 * bar
+
+### Heading 3
